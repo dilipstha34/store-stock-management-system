@@ -1,0 +1,8 @@
+VitaminCSerum,Garnier,210,1000,France
+SkinCleanser,Cetaphil,100,280,Switzerland
+Sunscreen,Aqualogica,200,700,India
+FaceMoisturizer,Vantelia,300,1000,Nepal
+CleansingFoam,Medacure,225,500,USA
+EyeCream,Bortax,300,400,Brazil
+BarrierCream,Zerafite,250,600,Australia
+NeemFaceWash,Himalayan,400,500,India
